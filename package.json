@@ -1,0 +1,26 @@
+{
+  "name": "okomo-website",
+  "version": "1.0.0",
+  "description": "Okomo Website Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salemoche/Okomo-Website.git"
+  },
+  "keywords": [
+    "Okomo",
+    "Website"
+  ],
+  "author": "Gabriel Bach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salemoche/Okomo-Website/issues"
+  },
+  "homepage": "https://github.com/Salemoche/Okomo-Website#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
